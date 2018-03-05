@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="aar" type="ARCHIVE" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
