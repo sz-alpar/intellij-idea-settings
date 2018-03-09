@@ -1,12 +1,12 @@
 <scheme name="Solarized Light - Alpar" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-09-14T07:23:04</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2.3.3.0</property>
-    <property name="modified">2017-09-14T07:36:31</property>
+    <property name="modified">2018-03-09T14:34:25</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
@@ -692,13 +692,18 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="afa895" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -708,22 +713,25 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="afa895" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
+        <option name="FOREGROUND" value="afa895" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="a2bde4" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="afa895" />
+      </value>
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
@@ -738,6 +746,11 @@
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -774,8 +787,13 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="afa896" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -1209,6 +1227,11 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="eee8d5" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="afa895" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
@@ -2373,6 +2396,31 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="dc22" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="16a700" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="67a86a" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="c0bd" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="3430cb" />
       </value>
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
