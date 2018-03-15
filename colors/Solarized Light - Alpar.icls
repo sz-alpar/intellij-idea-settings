@@ -4,7 +4,7 @@
     <property name="created">2017-09-14T07:23:04</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2.3.3.0</property>
-    <property name="modified">2018-03-09T14:34:25</property>
+    <property name="modified">2018-03-15T09:59:48</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -2081,6 +2081,9 @@
       <value>
         <option name="FOREGROUND" value="b58800" />
       </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value />
     </option>
     <option name="PHP_COMMENT">
       <value>
