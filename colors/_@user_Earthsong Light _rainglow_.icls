@@ -3,7 +3,7 @@
     <property name="created">2018-03-15T09:53:56</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2018-04-20T15:05:08</property>
+    <property name="modified">2018-04-24T15:57:29</property>
     <property name="originalScheme">Earthsong Light (rainglow)</property>
   </metaInfo>
   <colors>
@@ -584,6 +584,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="dfcb09" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="95cc5e" />
@@ -843,7 +849,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="597f5f" />
+        <option name="BACKGROUND" value="e7e4ff" />
       </value>
     </option>
     <option name="Enum name">
@@ -1252,6 +1258,12 @@
       <value>
         <option name="FOREGROUND" value="4d463e" />
         <option name="BACKGROUND" value="db784d" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="585858" />
+        <option name="BACKGROUND" value="a4a4a4" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
