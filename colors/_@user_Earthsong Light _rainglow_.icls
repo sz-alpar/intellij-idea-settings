@@ -3,7 +3,7 @@
     <property name="created">2018-03-15T09:53:56</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2018-04-24T15:57:29</property>
+    <property name="modified">2018-08-06T18:18:10</property>
     <property name="originalScheme">Earthsong Light (rainglow)</property>
   </metaInfo>
   <colors>
@@ -2115,7 +2115,7 @@
     </option>
     <option name="OC.HEADER_PATH">
       <value>
-        <option name="FOREGROUND" value="e6ffd6" />
+        <option name="FOREGROUND" value="9eb392" />
       </value>
     </option>
     <option name="OC.INVALID_STRING_ESCAPE">
