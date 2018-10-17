@@ -3,7 +3,7 @@
     <property name="created">2018-03-15T09:53:56</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2018-08-06T18:18:10</property>
+    <property name="modified">2018-10-17T15:33:01</property>
     <property name="originalScheme">Earthsong Light (rainglow)</property>
   </metaInfo>
   <colors>
@@ -43,7 +43,7 @@
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="4d463e" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
+    <option name="NOTIFICATION_BACKGROUND" value="afa72d" />
     <option name="NOT_CHANGED" value="616161" />
     <option name="QUESTION_HINT" value="ffffff" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="a98a00" />
