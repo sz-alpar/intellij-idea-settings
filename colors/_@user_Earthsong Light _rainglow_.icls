@@ -3,7 +3,7 @@
     <property name="created">2018-03-15T09:53:56</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2018-10-17T15:33:01</property>
+    <property name="modified">2019-01-17T10:46:58</property>
     <property name="originalScheme">Earthsong Light (rainglow)</property>
   </metaInfo>
   <colors>
@@ -14,8 +14,9 @@
     <option name="CARET_ROW_COLOR" value="f7f7f7" />
     <option name="CONSOLE_BACKGROUND_KEY" value="ffffff" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c" />
-    <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="ffffff" />
+    <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="ffffff" />
+    <option name="DIFF_SEPARATORS_TOP_BORDER" value="d7d7d7" />
     <option name="DOCUMENTATION_COLOR" value="ffffff" />
     <option name="FILESTATUS_ADDED" value="95cc5e" />
     <option name="FILESTATUS_COPIED" value="659d9a" />
@@ -795,26 +796,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="6c4e81" />
-        <option name="ERROR_STRIPE_COLOR" value="8f5247" />
+        <option name="BACKGROUND" value="ede8f0" />
+        <option name="ERROR_STRIPE_COLOR" value="9e97a9" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="b63b50" />
-        <option name="ERROR_STRIPE_COLOR" value="656e76" />
+        <option name="BACKGROUND" value="f1dae1" />
+        <option name="ERROR_STRIPE_COLOR" value="d59497" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="45582b" />
-        <option name="ERROR_STRIPE_COLOR" value="447152" />
+        <option name="BACKGROUND" value="e9f0e2" />
+        <option name="ERROR_STRIPE_COLOR" value="919882" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="927243" />
-        <option name="ERROR_STRIPE_COLOR" value="43698d" />
+        <option name="BACKGROUND" value="e1e9f0" />
+        <option name="ERROR_STRIPE_COLOR" value="a88d89" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
