@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="aar" type="ARCHIVE" />
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="Field" type="Kotlin" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
