@@ -3,7 +3,7 @@
     <property name="created">2018-03-15T09:53:56</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2019-01-17T10:46:58</property>
+    <property name="modified">2019-05-10T10:14:33</property>
     <property name="originalScheme">Earthsong Light (rainglow)</property>
   </metaInfo>
   <colors>
@@ -12,7 +12,7 @@
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="4d463e" />
     <option name="CARET_ROW_COLOR" value="f7f7f7" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="ffffff" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="fef7e4" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="ffffff" />
     <option name="DIFF_SEPARATORS_BOTTOM_BORDER" value="ffffff" />
@@ -441,14 +441,29 @@
         <option name="FOREGROUND" value="536c46" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="212121" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="418acc" />
+      </value>
+    </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="33cccc" />
+        <option name="FOREGROUND" value="4e9f98" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="cc4138" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ede8d7" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -458,17 +473,17 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7f00" />
+        <option name="FOREGROUND" value="89982f" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff70ff" />
+        <option name="FOREGROUND" value="c44680" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="4d463e" />
+        <option name="FOREGROUND" value="453a29" />
       </value>
     </option>
     <option name="CONSOLE_OUTPUT">
@@ -478,6 +493,11 @@
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value />
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cc4239" />
+      </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
@@ -492,12 +512,12 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f8f8f0" />
+        <option name="FOREGROUND" value="eee8d7" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cdcd00" />
+        <option name="FOREGROUND" value="af8a2d" />
       </value>
     </option>
     <option name="CSS.COLOR">
