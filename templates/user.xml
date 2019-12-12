@@ -10,4 +10,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="kjtc" value="@Test&#10;fun `$NAME$`() {&#10;    // Given&#10;    $END$&#10;    // When&#10;    // Then&#10;}" description="Kotlin JUnit4 Test Case" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
