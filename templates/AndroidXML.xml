@@ -1,0 +1,16 @@
+<templateSet group="AndroidXML">
+  <template name="swp" value="&lt;style name=&quot;$name$&quot; parent=&quot;$parent$&quot; /&gt;" description="Style with parent" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <variable name="parent" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="si" value="&lt;item name=&quot;$name$&quot;&gt;$value$&lt;/item&gt;" description="Style item" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
