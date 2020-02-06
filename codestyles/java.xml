@@ -59,7 +59,7 @@
       <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="100" />
+  <option name="RIGHT_MARGIN" value="140" />
   <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
   <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
   <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
@@ -89,9 +89,6 @@
   <option name="DOWHILE_BRACE_FORCE" value="3" />
   <option name="WHILE_BRACE_FORCE" value="3" />
   <option name="FOR_BRACE_FORCE" value="3" />
-  <AndroidXmlCodeStyleSettings>
-    <option name="USE_CUSTOM_SETTINGS" value="true" />
-  </AndroidXmlCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="FIELD_NAME_PREFIX" value="m" />
     <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
@@ -99,9 +96,6 @@
     <option name="GENERATE_FINAL_PARAMETERS" value="true" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
-    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
-      <value />
-    </option>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
         <package name="android" withSubpackages="true" static="true" />
@@ -157,35 +151,7 @@
     <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
     <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
   </JavaCodeStyleSettings>
-  <Objective-C-extensions>
-    <file>
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Typedef" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Enum" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Constant" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Global" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Struct" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
-    </file>
-    <class>
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
-      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
-    </class>
-    <extensions>
-      <pair source="cpp" header="h" fileNamingConvention="NONE" />
-      <pair source="c" header="h" fileNamingConvention="NONE" />
-    </extensions>
-  </Objective-C-extensions>
   <XML>
-    <option name="XML_KEEP_LINE_BREAKS" value="false" />
-    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
-    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <ADDITIONAL_INDENT_OPTIONS fileType="java">
@@ -557,7 +523,6 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
-    <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
