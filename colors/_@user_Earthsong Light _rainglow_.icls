@@ -3,7 +3,7 @@
     <property name="created">2018-03-15T09:53:56</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2020-03-25T15:11:15</property>
+    <property name="modified">2020-06-17T14:08:46</property>
     <property name="originalScheme">Earthsong Light (rainglow)</property>
   </metaInfo>
   <colors>
@@ -98,7 +98,7 @@
     </option>
     <option name="Abstract class name">
       <value>
-        <option name="FOREGROUND" value="f8bb39" />
+        <option name="FOREGROUND" value="be8b31" />
       </value>
     </option>
     <option name="Annotation">
@@ -683,7 +683,7 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="f8bb39" />
+        <option name="FOREGROUND" value="be8b31" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -713,7 +713,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="f8bb39" />
+        <option name="FOREGROUND" value="be8b31" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -787,7 +787,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="f8bb39" />
+        <option name="FOREGROUND" value="be8b31" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -1310,11 +1310,6 @@
     <option name="Instance property reference ID">
       <value>
         <option name="FOREGROUND" value="4d463e" />
-      </value>
-    </option>
-    <option name="Interface name">
-      <value>
-        <option name="FOREGROUND" value="f8bb39" />
       </value>
     </option>
     <option name="Interpolated String Injection">
@@ -2032,11 +2027,6 @@
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="c4b3a3" />
-      </value>
-    </option>
-    <option name="Map key">
-      <value>
-        <option name="FOREGROUND" value="f8bb39" />
       </value>
     </option>
     <option name="Method call">
@@ -3395,11 +3385,6 @@
       <value>
         <option name="FOREGROUND" value="60a365" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="String">
-      <value>
-        <option name="FOREGROUND" value="f8bb39" />
       </value>
     </option>
     <option name="TAPESTRY_COMPONENT_TAG">
