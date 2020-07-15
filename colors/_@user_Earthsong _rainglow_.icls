@@ -3,7 +3,7 @@
     <property name="created">2018-04-13T10:05:07</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.0.16</property>
-    <property name="modified">2018-04-13T14:51:15</property>
+    <property name="modified">2020-07-15T11:14:44</property>
     <property name="originalScheme">Earthsong (rainglow)</property>
   </metaInfo>
   <colors>
@@ -126,7 +126,7 @@
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
@@ -1228,7 +1228,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
+        <option name="EFFECT_COLOR" value="a19d99" />
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
     </option>
@@ -3463,7 +3463,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
+        <option name="EFFECT_COLOR" value="a19d99" />
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
     </option>
